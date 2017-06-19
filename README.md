@@ -1,6 +1,7 @@
 # Dijkstra's algorithm - *Java*
 
 *This program is only for study purposes*
+
 *Note: Comments are in czech*
 
 Finding the most reliable way on graph using "inversed" Dijsktra's algorithm.
